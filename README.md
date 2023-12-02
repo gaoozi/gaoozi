@@ -1,3 +1,24 @@
-- 👋 Hi, I’m @gaoozi
+## Hi, I'm Gaoozi.
 
-![Gaoozi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaoozi&show_icons=true&theme=catppuccin_latte) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaoozi&theme=catppuccin_latte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+```python3
+#!/usr/bin/env python3
+
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Gaoozi"
+        self.languages = ["Python", "HTML", "CSS", "Javascript", "Rust"]
+        self.hobbies = ["Coding", "Walking", "Terraria"]
+
+    def say_hi(self):
+        print("Welcome here, I hope you can find something useful or interesting for you.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
+--- 
+
+![](https://komarev.com/ghpvc/?username=gaoozi)
