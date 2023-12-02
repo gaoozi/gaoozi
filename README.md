@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-gaoozi/gaoozi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Gaoozi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaoozi&show_icons=true#gh-light-mode-only) ![Gaoozi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaoozi&show_icons=true&theme=radical#gh-dark-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaoozi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
