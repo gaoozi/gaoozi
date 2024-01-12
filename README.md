@@ -8,7 +8,7 @@
 class SoftwareEngineer:
     def __init__(self):
         self.name = "Gaoozi"
-        self.languages = ["Python", "HTML", "CSS", "Javascript", "Rust"]
+        self.languages = ["Python", "HTML", "CSS", "Javascript", "Rust", "Linux"]
         self.hobbies = ["Coding", "Walking", "Terraria"]
 
     def say_hi(self):
